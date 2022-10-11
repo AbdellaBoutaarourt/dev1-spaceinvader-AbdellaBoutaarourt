@@ -28,6 +28,5 @@ function drawSpaceinvader() {
     context.rect(175, 150, 50, 50);
     context.fillStyle = "#00ff00";
     context.fill();
-
     
 }
